@@ -3,7 +3,7 @@ title: Women vs Men
 subtitle: 'You''re right: it''s just for catching your attention!'
 author: adsidera
 avatar: img/authors/adsidera.jpeg
-image:
+image: /img/children.jpg
 date: 2017-11-12 12:12:00
 ---
 
