@@ -3,7 +3,7 @@ title: If I could change time
 subtitle: what century I would most like to hear?
 author: adsidera
 avatar: img/authors/adsidera.jpeg
-image: /img/baroquemusic.jpg
+image: /img/time.jpg
 date: 2017-11-10 12:12:00
 ---
 
