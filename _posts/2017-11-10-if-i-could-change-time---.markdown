@@ -1,5 +1,5 @@
 ---
-title: If I could change time
+title: If I could change time...
 subtitle: what century I would most like to hear?
 author: adsidera
 avatar: img/authors/adsidera.jpeg
