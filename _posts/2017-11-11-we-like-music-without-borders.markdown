@@ -3,7 +3,7 @@ title: We like Music without borders
 subtitle: 'are we sure there aren''t any, though?'
 author: adsidera
 avatar: img/authors/adsidera.jpeg
-image: /img/worldmap1920.jpg
+image: /img/universe.jpg
 date: 2017-11-11 12:12:00
 ---
 
