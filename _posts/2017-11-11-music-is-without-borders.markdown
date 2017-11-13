@@ -1,5 +1,5 @@
 ---
-title: We like Music without borders
+title: Music is without borders
 subtitle: 'are we sure there aren''t any, though?'
 author: adsidera
 avatar: img/authors/adsidera.jpeg
