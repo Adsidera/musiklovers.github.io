@@ -72,10 +72,11 @@
 .card__container--closed .card__caption {
 	font-size: 1em;
 	max-width: auto;
-	padding: 10px 10px 25px;
+	padding: 3px 24px 11px;
 	-webkit-transform: translateY(-100%);
 	-ms-transform: translateY(-100%);
 	transform: translateY(-100%);
+	background-color: rgba(50, 154, 44, 0.7);
 }
 
 .card__title {
