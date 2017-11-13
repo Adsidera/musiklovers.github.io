@@ -3,7 +3,7 @@ title: If I could change time
 subtitle: what century I would most like to hear?
 author: adsidera
 avatar: img/authors/adsidera.jpeg
-image: /img/time.jpg
+image: /img/time1920.jpg
 date: 2017-11-10 12:12:00
 ---
 
