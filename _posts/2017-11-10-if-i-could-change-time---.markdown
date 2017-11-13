@@ -1,6 +1,6 @@
 ---
 title: If I could change time...
-subtitle: what century I would most like to hear?
+subtitle: what century would I most like to hear?
 author: adsidera
 avatar: img/authors/adsidera.jpeg
 image: /img/time1920.jpg
