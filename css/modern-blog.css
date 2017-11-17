@@ -155,7 +155,13 @@
 .meta__date {
 	margin: 0 0 0 auto;
 }
+/***********************
+* Beethoven
+***********************/
 
+.tableauPlaceholder {
+    margin-left: 15%;
+}
 @media only screen and (max-width: 980px) {
 	.card {
 		width: 46%;
