@@ -18,4 +18,4 @@ Still, is there a preferred, top-performed composer in all these ten years?&nbsp
 
 A classic of all classics?
 
-<p class="display-4>[See what our "hitparade" analysis discovered here](/hitparade.html)</p><br>&nbsp;
+[See what our "hitparade" analysis discovered here](/hitparade.html)<br>&nbsp;
