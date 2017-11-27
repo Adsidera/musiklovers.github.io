@@ -24,12 +24,12 @@
 }
 
 .card__container--closed {
-	position: relative;
+	position: absolute;
 	overflow: hidden;
 }
 
 .card__image {
-	position: relative;
+	position: absolute;
 	top: 0;
 	left: 0;
 	display: block;
